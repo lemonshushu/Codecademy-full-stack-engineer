@@ -1,0 +1,35 @@
+
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+}
+
+body {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.dl-link, .dl-link:visited {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+figcaption {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
